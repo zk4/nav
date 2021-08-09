@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/zk4/nav',
 
   // 部署分支
   branch: 'main',
@@ -40,7 +40,7 @@ const c: IConfig = {
 
   // 百度统计地址
   // https://tongji.baidu.com/web/welcome/login
-  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba',
+  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js',
 
   // CNZZ 统计地址
   // https://www.cnzz.com/o_index.php
